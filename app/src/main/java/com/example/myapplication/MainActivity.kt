@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
 
 
 
-        Log.i("TAG","HELLO")
+        Log.i("TAG","HELLO WORLD")
     }
 }
