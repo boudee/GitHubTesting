@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
 
 
         Log.i("TAG","HELLO WORLD")
+        Log.i("TAG","CHERRY PICK")
     }
 }
